@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
+
 **Miguel-Florian/Miguel-Florian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionné de la conception d’interfaces et expériences utilisateur, du développement web, je peux intervenir durant les étapes de développement d’une application commençant de l’élaboration du cahier de charge au déploiement de l’application tout en adoptant des méthodes agiles, et également étudiant en Administration des Systèmes d’Information, je suis capable de déployer des services sur des environnements virtuels et assurer leurs disponibilités.
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
