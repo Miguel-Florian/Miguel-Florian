@@ -1,4 +1,4 @@
-### Hi there &#x1F60E;, I'm Miguel FLorian Noumowe
+### Hi there &#x1F60E;, I'm Miguel Florian Noumowe
 
 
 #### About me
