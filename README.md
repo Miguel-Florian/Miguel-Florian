@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I'm Miguel FLorian Noumowe
 
 
-**Miguel-Florian/Miguel-Florian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Passionné de la conception d’interfaces et expériences utilisateur, du développement web, je peux intervenir durant les étapes de développement d’une application commençant de l’élaboration du cahier de charge au déploiement de l’application tout en adoptant des méthodes agiles, et également étudiant en Administration des Systèmes d’Information, je suis capable de déployer des services sur des environnements virtuels et assurer leurs disponibilités.
+#### About me
+- 🔭 I’m currently working on my website
+- 🌱 I’m currently learning **Software Engineering** at [**Alx Africa**](https://www.alxafrica.com/), **Information Systems Administration** at [**Keyce**](https://keyce.fr/ecole-keyce/open-it/) and **Science Computer** at [**University of Douala**](https://www.univ-douala.cm/) 
+- 👯 I’m looking to collaborate on open sources projects,internships and hackathon
+- 📫 How to reach me: **migflor04@gmail.com**
+- 😄 Pronouns: Il / il
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+<!--Here are some ideas to get you started:
+- 🔭 I’m currently working on my website
+- 🌱 I’m currently learning Software Engineering at Alx Africa,Information Systems Administration At Keyce and Science Computer at University of Douala 
+- 👯 I’m looking to collaborate on open sources projects,internships and hackathon
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💬 Ask me about : ..
+- 📫 How to reach me: migflor04@gmail.com
+- 😄 Pronouns: Il / il
 - ⚡ Fun fact: ...
+- -->
