@@ -2,7 +2,7 @@
 
 
 #### About me
-- 🔭 I’m currently working on my ...
+- 🔭 I’m currently working on my Website
 - 🌱 I’m currently learning **Software Engineering** at [**Alx Africa**](https://www.alxafrica.com/), **Information Systems Administration** at [**Keyce**](https://keyce.fr/ecole-keyce/open-it/) and **Computer Science** at [**University of Douala**](https://www.univ-douala.cm/) 
 - 👯 I’m looking to collaborate on open sources projects,internships and hackathon
 - 📫 How to reach me: **migflor04@gmail.com**
